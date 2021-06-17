@@ -4,6 +4,7 @@
 
 ### Setup 
 Android Studio - https://developer.android.com/studio
+
 Flutter - https://flutter.dev/docs/get-started/install/windows
 
 
@@ -11,5 +12,7 @@ Flutter - https://flutter.dev/docs/get-started/install/windows
 
 
 Widget catalog - https://flutter.dev/docs/development/ui/widgets
+
 Dart - https://dart.dev/
+
 Packages - https://pub.dev/
